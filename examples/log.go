@@ -1,6 +1,6 @@
 package main
 
-import "baselog"
+import "github.com/nzions/baselog"
 
 type MyThing struct {
 	Logger baselog.Logger
