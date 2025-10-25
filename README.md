@@ -1,6 +1,9 @@
-# baselog
+# Repository Migrated
 
-just a simple logging library  
+This repository has been migrated to a new location.
 
-use the interface in your libraries, then pass an implementation  
+**New Location:** archive/baselog
 
+**Migration Date:** 2025-10-25
+
+This repository is now archived and no longer maintained at this location.
